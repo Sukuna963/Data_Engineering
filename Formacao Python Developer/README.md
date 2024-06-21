@@ -43,5 +43,14 @@
 - [Boas Práticas com Python](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EfkDZ072E_JDjEvMLb1x4xkBDV1UrwZPnQpPOy74zkT9XQ?e=pQe8VZ)
 - Desafio de Projeto - Integrando Python com SQLite e MongoDB
 - Desafio de Projeto - Criando uma API com Flask no Ambiente COLAB
+
+----
+
+📃 ***Tratamento de Dados com Python***
+- Fundamentos de ETL(Extract, Transform, Load) com Python
+- Segurança da Informação com Python
+- Desafio de Projeto - Análise de dados com Python e Pandas
+- Desafio de Projeto - Criando um Pacote de Processamento de Imagens com Python
+
 ----
 ... continuando
