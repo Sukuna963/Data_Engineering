@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "consumindo a api do twitter com python"
+version = "1.0.0"
+description = ""
+authors = ["Leonardo Marques"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.4"
+fastapi = "^0.111.0"
+pymongo = "^4.7.3"
+tweepy = "^4.14.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.2"
+flake8 = "^7.1.0"
+black = "^24.4.2"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

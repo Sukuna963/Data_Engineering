@@ -53,4 +53,8 @@
 - Desafio de Projeto - Criando um Pacote de Processamento de Imagens com Python
 
 ----
-... continuando
+
+📃 ***Praticando Desenvolvimento Web Com Python***
+- Desenvolvendo Rest APIs Com Python e Flask
+- Desenvolvimento Web com Python e Django
+- Desafio de Projeto - Consumindo a API do Twitter com Python
